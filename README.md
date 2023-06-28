@@ -1,13 +1,14 @@
 # PM-WANI-WIFI
-PM-WANI-APP
-# link-https://play.google.com/store/apps/details?id=com.winet_pmwani
-
+# PM-WANI-APP
+ link-https://play.google.com/store/apps/details?id=com.winet_pmwani
+# This is an open source identity and access management solution.
 # Architecture
 We are following a simple architecture for this implementation.
 
 # Components
 PM-WANI App - This is a mobile app that will be used by customers to connect to the PM-WANI compliant Access Points to access internet. 
-This is an open source identity and access management solution.
+# How to reach me 
+9650866007
 
 # MySql - Database
 
