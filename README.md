@@ -22,6 +22,7 @@ PM-WANI App Backend - The App-Provider backend following all the PM-WANI specs.
 ![Screenshot_2023-04-03-16-07-34-184_com example winet_pmwani](https://github.com/himanshujjp/PM-WANI-WIFI/assets/62508138/8dad1d4f-eac7-4af5-bb45-3c3c18592141)
 ![IMG_20230520_003835](https://github.com/himanshujjp/PM-WANI-WIFI/assets/62508138/4277db37-c5bc-43ec-b56f-5545a4bebd67)
 ![IMG_20230520_003810](https://github.com/himanshujjp/PM-WANI-WIFI/assets/62508138/0dd5f386-47de-4ea7-a13f-d0bd26df8a91)
-![Screenshot_2023-04-03-16-08-04-750_com example winet_pmwani](https://github.com/himanshujjp/PM-WANI-WIFI/assets/62508138/d2456134-3d3d-457f-867c-2a5720a52ef5)
+![Screenshot_2023-04-03-16-08-04-750_com example winet_pmwani](https://github.com/himanshujjp/PM-WANI-WIFI/assets/62508138/0a5409fc-48f2-405e-925c-68308915b68a)
 ![Screenshot_2023-04-03-16-08-01-573_com example winet_pmwani](https://github.com/himanshujjp/PM-WANI-WIFI/assets/62508138/92a5d5e5-b372-456d-9d1f-0c03b432f72f)
 ![IMG_20230628_132049](https://github.com/himanshujjp/PM-WANI-WIFI/assets/62508138/97cef06f-fc83-4744-a9e8-60553dd4cf49)
+
