@@ -8,11 +8,10 @@ We are following a simple architecture for this implementation.
 # Components
 PM-WANI App - This is a mobile app that will be used by customers to connect to the PM-WANI compliant Access Points to access internet. 
 # How to reach me 
-Phone No: +91-9650866007
+Phone No: +91-7322066108
  <br />
-Email address: support@next2call.com
+Email address: himanshujjp8@gmail.com
  <br />
-Website: https://wani.next2call.com/
 
 
 # MySql - Database
